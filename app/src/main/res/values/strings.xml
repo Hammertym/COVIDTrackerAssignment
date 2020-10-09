@@ -2,16 +2,19 @@
     <string name="app_name">COVIDTrackerAssignment</string>
     <string name="text_header">COVID TRACKER</string>
     <string name="question_text">YES</string>
-    <string name="q1">Have you expirienced any of the common symptoms of COVID 19?</string>
-    <string name="q2">Have you, within the last ten days, expirienced an internal tempature of 100.4°?</string>
-    <string name="q3">Have you come in close contact with someone with a suspected or confirmed case of COVID-19 within the past 10 days?</string>
+    <string name="q1">Have you experienced any of the common symptoms of COVID 19?</string>
+    <string name="q2">Have you, within the last ten days, experienced an internal temperature of 100.4°?</string>
+    <string name="q3">Have you come in close contact with someone with a suspected or confirmed case of COVID-19?</string>
     <string name="q4">Have you travelled outside the country within the past 10 days?</string>
     <string name="q5">Do you affirm that all of your selections are the complete and honest truth?</string>
     <string name="truth_msg">If you do not select yes for the final question, then you cannot submit this form.</string>
     <string name="unchecked_msg">You are not safe to come in today. Please get a COVID test as soon as you are able.</string>
     <string name="safe_msg">You are safe to enter work/school.</string>
     <string name="get_results">Get Results</string>
-    <string name="time_remaining">Enter the form once you have completed all of the questions.</string>
-    <string name="timer_msg">Please fill out the form again in 10 minutes. If your tempature is still above 100.4 then, than you will not be permitted to go to school/work</string>
+    <string name="time_remaining"> </string>
+    <string name="timer_msg">Please fill out the form again in 10 minutes. If your temperature is still above 100.4 then, than you will not be permitted to go to school/work</string>
     <string name="running_msg">Please wait. It has not been 10 minutes.</string>
+    <string name="name_box">Enter your name here</string>
+    <string name="submit">SUBMIT</string>
+    <string name="enter_text_str">Enter your name here:</string>
 </resources>
